@@ -1,0 +1,352 @@
+Script started on 2023-02-02 12:37:28+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ phy[K[K[K*pro
+[?2004lOrden «*pro» no encontrada. Quizá quiso decir:
+  la orden «gpro» del paquete snap «gpro (1.0.104)»
+Consulte «snap info <nombre del snap>» para ver más versiones.
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ *py
+[?2004lproceso0.py: orden no encontrada
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ ls
+[?2004l [0m[01;34mAinhoa[0m                patata.hs     [01;31mspark-3.2.1-bin-hadoop3.2.tgz[0m
+ [01;34mDescargas[0m             [01;34mPlantillas[0m    Untitled1.ipynb
+ [01;34mDocumentos[0m            [01;34mprde[0m          Untitled2.ipynb
+ [01;34mEscritorio[0m            proceso0.py   Untitled3.ipynb
+ [01;34mImágenes[0m              [01;34mprpa[0m          Untitled4.ipynb
+[01;34m'INF CECILIA'[0m          prpa.git      Untitled5.ipynb
+ multiprocessing.txt   [01;34mPúblico[0m       Untitled.ipynb
+ [01;34mMúsica[0m                [40;31;01mpyspark[0m       [01;34mvenv[0m
+ os                    [01;34msnap[0m          [01;34mVídeos[0m
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ ph[Ky[Khyton3 proceso0.py
+[?2004lphyton3: orden no encontrada
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ ls -al
+[?2004ltotal 294324
+drwxr-x--- 32 alumno alumno      4096 feb  2 12:38  [0m[01;34m.[0m
+drwxr-xr-x  5 root   root        4096 may  5  2022  [01;34m..[0m
+drwxrwxr-x  2 alumno alumno      4096 sep 15 09:39  [01;34mAinhoa[0m
+-rw-------  1 alumno alumno      6109 feb  2 12:36  .bash_history
+-rw-r--r--  1 alumno alumno       220 abr 26  2022  .bash_logout
+-rw-r--r--  1 alumno alumno      3771 may 23  2022  .bashrc
+-rw-r--r--  1 alumno alumno      3851 abr 26  2022  .bashrc~
+drwx------ 17 alumno alumno      4096 nov 10 12:49  [01;34m.cache[0m
+drwx------ 21 alumno alumno      4096 nov 24 12:47  [01;34m.config[0m
+-rw-------  1 alumno alumno         0 may 24  2022  .dbshell
+drwxr-xr-x  5 alumno alumno      4096 dic  7 13:19  [01;34mDescargas[0m
+-rw-r--r--  1 alumno alumno        25 may 10  2022  .dmrc
+drwxr-xr-x  3 alumno alumno      4096 nov 18 11:52  [01;34mDocumentos[0m
+drwx------  2 alumno alumno      4096 may 23  2022  [01;34m.emacs.d[0m
+drwxr-xr-x  2 alumno alumno      4096 abr 28  2022  [01;34mEscritorio[0m
+drwxrwxr-x  2 alumno alumno      4096 abr 26  2022  [01;34m.ghc[0m
+drwx------  2 alumno alumno      4096 ene 26 12:11  [01;34m.gnupg[0m
+drwxr-xr-x  3 alumno alumno      4096 may 24  2022  [01;34mImágenes[0m
+drwxrwxr-x  2 alumno alumno      4096 nov  2 18:51 [01;34m'INF CECILIA'[0m
+drwxrwxr-x  2 alumno alumno      4096 may 23  2022  [01;34m.ipynb_checkpoints[0m
+drwxrwxr-x  5 alumno alumno      4096 may 23  2022  [01;34m.ipython[0m
+drwxrwxr-x  3 alumno alumno      4096 abr 26  2022  [01;34m.julia[0m
+drwxrwxr-x  2 alumno alumno      4096 abr 26  2022  [01;34m.jupyter[0m
+drwxrwxr-x  2 alumno alumno      4096 abr 26  2022  [01;34m.keras[0m
+-rw-------  1 alumno alumno        20 ene 26 13:21  .lesshst
+drwx------  3 alumno alumno      4096 abr 26  2022  [01;34m.local[0m
+drwx------  3 alumno alumno      4096 may 24  2022  [01;34m.mongodb[0m
+-rw-------  1 alumno alumno         0 may 24  2022  .mongorc.js
+-rw-rw-r--  1 alumno alumno         0 feb  2 12:37  multiprocessing.txt
+drwxr-xr-x  2 alumno alumno      4096 abr 26  2022  [01;34mMúsica[0m
+-rw-r--r--  1 root   root           0 abr 26  2022  os
+-rw-rw-r--  1 alumno alumno      2890 sep 21 12:31  patata.hs
+drwx------  3 alumno alumno      4096 abr 26  2022  [01;34m.pki[0m
+drwxr-xr-x  2 alumno alumno      4096 abr 26  2022  [01;34mPlantillas[0m
+drwxrwxr-x  2 alumno alumno      4096 dic  7 13:47  [01;34mprde[0m
+-rw-rw-r--  1 alumno alumno       360 feb  2 12:38  proceso0.py
+-rw-r--r--  1 alumno alumno       807 abr 26  2022  .profile
+drwxrwxr-x 12 alumno alumno      4096 ene 26 12:59  [01;34mprpa[0m
+-rw-rw-r--  1 alumno alumno    192976 ene 26 12:29  prpa.git
+drwxr-xr-x  2 alumno alumno      4096 abr 26  2022  [01;34mPúblico[0m
+lrwxrwxrwx  1 root   root          25 abr 28  2022  [40;31;01mpyspark[0m -> [40;31;01m/opt/spark/python/pyspark[0m
+-rw-------  1 alumno alumno       993 nov 18 11:51  .python_history
+drwxrwxr-x  6 alumno alumno      4096 abr 26  2022  [01;34m.sage[0m
+-rw-------  1 alumno alumno         0 abr 26  2022  .scala_history
+drwx------  9 alumno alumno      4096 abr 28  2022  [01;34msnap[0m
+-rw-r--r--  1 root   root   300971569 ene 20  2022  [01;31mspark-3.2.1-bin-hadoop3.2.tgz[0m
+drwxrwxr-x  3 alumno alumno      4096 abr 26  2022  [01;34m.theano[0m
+-rw-rw-r--  1 alumno alumno        72 abr 26  2022  Untitled1.ipynb
+-rw-rw-r--  1 alumno alumno        72 abr 26  2022  Untitled2.ipynb
+-rw-rw-r--  1 alumno alumno        72 abr 26  2022  Untitled3.ipynb
+-rw-rw-r--  1 alumno alumno        72 abr 27  2022  Untitled4.ipynb
+-rw-rw-r--  1 alumno alumno       766 may 23  2022  Untitled5.ipynb
+-rw-rw-r--  1 alumno alumno        72 abr 26  2022  Untitled.ipynb
+drwxr-xr-x  5 root   root        4096 abr 26  2022  [01;34mvenv[0m
+drwxr-xr-x  2 alumno alumno      4096 abr 26  2022  [01;34mVídeos[0m
+-rw-rw-r--  1 alumno alumno       165 ene 26 12:29  .wget-hsts
+-rw-------  1 alumno alumno       104 feb  2  2023  .Xauthority
+drwx------  2 alumno alumno      4096 abr 26  2022  [01;34m.xournal[0m
+-rw-------  1 alumno alumno       542 feb  2  2023  .xsession-errors
+-rw-------  1 alumno alumno       542 ene 26 13:06  .xsession-errors.old
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ ls -alphyton3 proceso0.py[1P[1P[1P[1P[1P[1@y[1@t[1@h[1@o[1@m[1P[1@n
+[?2004lfin
+hola 0
+hola 0
+hola 1
+hola 2
+hola 3
+hola 1
+hola 4
+hola 2
+hola 3
+hola 4
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ python3 proceso0.py
+[?2004lfin
+hola 0
+hola 0
+hola 1
+hola 2
+hola 1
+hola 2
+hola 3
+hola 3
+hola 4
+hola 4
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ python3 proceso0.py[1P0.py[C[1P.py
+[?2004lpython3: can't open file '/home/alumno/proces.py': [Errno 2] No such file or directory
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ python3 proces.pyo.py1 proceso.py[C[1Pproceso.py[1Pproceso.py proceso.py1proceso.py
+[?2004lpython3: can't open file '/home/alumno/1proceso.py': [Errno 2] No such file or directory
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ python3 1proceso.py[C_1proceso.py[1P1proceso.py[C_proceso.py
+[?2004lhola soy ana 0 vuelta 0
+hola soy ana 1 vuelta 0
+hola soy ana 2 vuelta 0
+hola soy ana 3 vuelta 0
+hola soy ana 4 vuelta 0
+hola soy ana 5 vuelta 0
+hola soy ana 6 vuelta 0
+hola soy ana 7 vuelta 0
+hola soy ana 8 vuelta 0
+fin
+hola soy ana 9 vuelta 0
+adios
+hola soy ana 6 vuelta 1
+hola soy ana 9 vuelta 1
+hola soy ana 8 vuelta 1
+hola soy ana 2 vuelta 1
+hola soy ana 9 vuelta 2
+hola soy ana 7 vuelta 1
+hola soy ana 5 vuelta 1
+hola soy ana 3 vuelta 1
+hola soy ana 5 vuelta 2
+hola soy ana 1 vuelta 1
+hola soy ana 4 vuelta 1
+hola soy ana 0 vuelta 1
+hola soy ana 6 vuelta 2
+hola soy ana 2 vuelta 2
+hola soy ana 8 vuelta 2
+hola soy ana 7 vuelta 2
+hola soy ana 1 vuelta 2
+hola soy ana 0 vuelta 2
+hola soy ana 3 vuelta 2
+hola soy ana 4 vuelta 2
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ python3 1_proceso.py
+[?2004lhola soy ana 0 vuelta 0
+hola soy ana 1 vuelta 0
+hola soy ana 2 vuelta 0
+hola soy ana 3 vuelta 0
+hola soy ana 4 vuelta 0
+hola soy ana 5 vuelta 0
+hola soy ana 6 vuelta 0
+hola soy ana 7 vuelta 0
+hola soy ana 8 vuelta 0
+fin
+hola soy ana 9 vuelta 0
+adios
+hola soy ana 2 vuelta 1
+hola soy ana 1 vuelta 1
+hola soy ana 5 vuelta 1
+hola soy ana 2 vuelta 2
+hola soy ana 7 vuelta 1
+hola soy ana 6 vuelta 1
+hola soy ana 1 vuelta 2
+hola soy ana 4 vuelta 1
+hola soy ana 3 vuelta 1
+hola soy ana 0 vuelta 1
+hola soy ana 9 vuelta 1
+hola soy ana 8 vuelta 1
+hola soy ana 7 vuelta 2
+hola soy ana 8 vuelta 2
+hola soy ana 0 vuelta 2
+hola soy ana 4 vuelta 2
+hola soy ana 5 vuelta 2
+hola soy ana 3 vuelta 2
+hola soy ana 6 vuelta 2
+hola soy ana 9 vuelta 2
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ 
+[?2004l[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ ls /media/alumno/887B-B8E3/
+[?2004l'AUTORIZACION SEPA_firmada.pdf'   [0m[01;34mMEST[0m  [01;34m'System Volume Information'[0m
+ [01;34mGCOM[0m                             [01;34mPRPA[0m   [01;34mTFG[0m
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ ls /media/alumno/887B-B8E3/PRPA/
+[?2004l git-cheat-sheet.pdf   GITHUB.txt  [0m[01;31m'ssh copia.zip'[0m   [01;31mssh.zip[0m
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ ls /media/alumno/887B-B8E3/PRPA/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P /media/alumno/887B-B8E3/PRPA/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cc /media/alumno/887B-B8E3/PRPA/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cm /media/alumno/887B-B8E3/PRPA/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P /media/alumno/887B-B8E3/PRPA/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P /media/alumno/887B-B8E3/PRPA/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cr /media/alumno/887B-B8E3/PRPA/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cm /media/alumno/887B-B8E3/PRPA/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cssh\[K\ copia.zip 
+[?2004l[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ unzip /media/alumno/887B-B8E3/[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K/
+alumno/    nomachine/ tecnicos/  
+]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ unzip /media/alumno/887B-B8E3/PRPA/ssh.zip 
+[?2004lArchive:  /media/alumno/887B-B8E3/PRPA/ssh.zip
+   creating: .ssh/
+  inflating: .ssh/id_rsa             
+  inflating: .ssh/id_rsa.pub         
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ ls -al ss[K[K.ssh/
+[?2004ltotal 16
+drwx------  2 alumno alumno 4096 ene 26 12:22 [0m[01;34m.[0m
+drwxr-x--- 33 alumno alumno 4096 feb  2 12:54 [01;34m..[0m
+-rw-------  1 alumno alumno 1876 ene 26 12:22 id_rsa
+-rw-r--r--  1 alumno alumno  396 ene 26 12:22 id_rsa.pub
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ gir clone[K[K[K[K[K[K[Kt clone [7mgit@github.com:CelesteRhodesRodriguez/PRPA.git[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit@github.com:CelesteRhodesRodriguez/PRPA.git
+[?2004lClonando en 'PRPA'...
+The authenticity of host 'github.com (140.82.121.4)' can't be established.
+ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? u yes
+Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
+remote: Enumerating objects: 6, done.[K
+remote: Counting objects:  16% (1/6)[Kremote: Counting objects:  33% (2/6)[Kremote: Counting objects:  50% (3/6)[Kremote: Counting objects:  66% (4/6)[Kremote: Counting objects:  83% (5/6)[Kremote: Counting objects: 100% (6/6)[Kremote: Counting objects: 100% (6/6), done.[K
+remote: Compressing objects:  20% (1/5)[Kremote: Compressing objects:  40% (2/5)[Kremote: Compressing objects:  60% (3/5)[Kremote: Compressing objects:  80% (4/5)[Kremote: Compressing objects: 100% (5/5)[Kremote: Compressing objects: 100% (5/5), done.[K
+remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Recibiendo objetos:  16% (1/6)Recibiendo objetos:  33% (2/6)Recibiendo objetos:  50% (3/6)Recibiendo objetos:  66% (4/6)Recibiendo objetos:  83% (5/6)Recibiendo objetos: 100% (6/6)Recibiendo objetos: 100% (6/6), listo.
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ ssh-add
+[?2004lEnter passphrase for /home/alumno/.ssh/id_rsa: 
+Identity added: /home/alumno/.ssh/id_rsa (alumno@aula445)
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ ls
+[?2004l 1_proceso.py          patata.hs     [0m[01;31mspark-3.2.1-bin-hadoop3.2.tgz[0m
+ [01;34mAinhoa[0m                [01;34mPlantillas[0m    Untitled1.ipynb
+ [01;34mDescargas[0m             [01;34mprde[0m          Untitled2.ipynb
+ [01;34mDocumentos[0m            proceso0.py   Untitled3.ipynb
+ [01;34mEscritorio[0m            [01;34mprpa[0m          Untitled4.ipynb
+ [01;34mImágenes[0m              [01;34mPRPA[0m          Untitled5.ipynb
+[01;34m'INF CECILIA'[0m          prpa.git      Untitled.ipynb
+ multiprocessing.txt   [01;34mPúblico[0m       [01;34mvenv[0m
+ [01;34mMúsica[0m                [40;31;01mpyspark[0m       [01;34mVídeos[0m
+ os                    [01;34msnap[0m
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ cdf[K [1Pls[K[Kcd pr[K[KP
+Plantillas/ PRPA/       Público/    
+]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ cd PRPA/
+[?2004l[?2004h]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ LS
+[?2004lLS: orden no encontrada
+[?2004h]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ ls
+[?2004lREADME.md  [0m[01;31mssh.zip[0m
+[?2004h]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ git r,[Km shh.zip
+[?2004lfatal: ruta especificada 'shh.zip' no concordó con ningún archivo
+[?2004h]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ git rm shh.zip[1P.zipsh.zip
+[?2004lrm 'ssh.zip'
+[?2004h]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ ls
+[?2004lREADME.md
+[?2004h]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ cd ../
+[?2004l[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ cd PRPA/
+[?2004l[?2004h]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ cñ[Kp ../*py .
+[?2004l[?2004h]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ ls
+[?2004l1_proceso.py  proceso0.py  README.md
+[?2004h]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ git a[Kadd 0proceso[K[K[K[K[K[K[K[K[K[K[K[Kadd *py
+[?2004l[?2004h]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ git commit
+[?2004lIdentidad del autor desconocido
+
+*** Por favor cuéntame quién eres.
+
+Ejecuta
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Tu Nombre"
+
+para configurar la identidad por defecto de tu cuenta.
+Omite --global para configurar tu identidad solo en este repositorio.
+
+fatal: no es posible auto-detectar la dirección de correo (se obtuvo 'alumno@aula435.(none)')
+[?2004h]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ <^?[K[K[7mgit config --global user.email "you@example.com"[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit config --global user.email "you@example.com"                 cerhodes@ucm.es
+[?2004l[?2004h]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ [7m git config --global user.name "Tu Nombre"[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C git config --global user.name "Tu Nombre"           Celeste
+[?2004l[?2004h]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ commit[K[K[K[K[K[Kgit  [Kcommit
+[?2004layuda: Esperando que tu editor cierre el archivo ... [?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;34H(B[0;7m[ Leyendo... ](B[m[22;31H(B[0;7m[ 13 líneas leídas ](B[m[H(B[0;7m  GNU nano 6.2          /home/alumno/PRPA/.git/COMMIT_EDITMSG                   [1;79H(B[m[23d(B[0;7m^G(B[m Ayuda     (B[0;7m^O(B[m Guardar   (B[0;7m^W(B[m Buscar    (B[0;7m^K(B[m Cortar    (B[0;7m^T(B[m Ejecutar  (B[0;7m^C(B[m Ubicación[24d(B[0;7m^X(B[m Salir     (B[0;7m^R(B[m Leer fich.(B[0;7m^\(B[m Reemplazar(B[0;7m^U(B[m Pegar     (B[0;7m^J(B[m Justificar(B[0;7m^/(B[m Ir a línea[3d[36m# Por favor ingresa el mensaje del commit para tus cambios. Las[4d#  líneas que comiencen con '#' serán ignoradas, y un mensaje[5d#  vacío aborta el commit.[6d#[7d# En la rama main[8d# Tu rama está actualizada con 'origin/main'.[9d#[10d# Cambios a ser confirmados:[11d#[38;5;208m       [36mnuevos archivos: 1_proceso.py[12d#[38;5;208m       [36mnuevos archivos: proceso0.py[13d#[38;5;208m       [36mborrados:        ssh.zip[14d#[2d[39m(B[m[?12l[?25h[?25l[22d[J[24d[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>[?2004l[KAbortando commit debido que el mensaje está en blanco.
+[?2004h]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ git commit[C -m ""p"r"o"g"r"a"m"a"s" "p"r"u"e"b"A"[1P"A"[1P"a"
+[?2004l[main dfa9b10] programas prueba
+ 3 files changed, 37 insertions(+)
+ create mode 100644 1_proceso.py
+ create mode 100644 proceso0.py
+ delete mode 100644 ssh.zip
+[?2004h]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ git puch¡¡sh[K[K[K[K[K[Ksh
+[?2004lEnumerando objetos: 5, listo.
+Contando objetos:  20% (1/5)Contando objetos:  40% (2/5)Contando objetos:  60% (3/5)Contando objetos:  80% (4/5)Contando objetos: 100% (5/5)Contando objetos: 100% (5/5), listo.
+Compresión delta usando hasta 6 hilos
+Comprimiendo objetos:  25% (1/4)Comprimiendo objetos:  50% (2/4)Comprimiendo objetos:  75% (3/4)Comprimiendo objetos: 100% (4/4)Comprimiendo objetos: 100% (4/4), listo.
+Escribiendo objetos:  25% (1/4)Escribiendo objetos:  50% (2/4)Escribiendo objetos:  75% (3/4)Escribiendo objetos: 100% (4/4)Escribiendo objetos: 100% (4/4), 766 bytes | 766.00 KiB/s, listo.
+Total 4 (delta 0), reusados 0 (delta 0), pack-reusados 0
+To github.com:CelesteRhodesRodriguez/PRPA.git
+   06fbc11..dfa9b10  main -> main
+[?2004h]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ [K]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ [K]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ cp ../2_proceso.py .
+[?2004l[?2004h]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ ls
+[?2004l1_proceso.py  2_proceso.py  proceso0.py  README.md
+[?2004h]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ git a[K[K[K[K[Kls
+[?2004l1_proceso.py  2_proceso.py  proceso0.py  README.md
+[?2004h]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ cd ..
+[?2004l[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ *py
+[?2004l1_proceso.py: orden no encontrada
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ ls
+[?2004l 1_proceso.py    [0m[01;34mAinhoa[0m       [01;34mEscritorio[0m     multiprocessing.txt   patata.hs    proceso0.py   prpa.git   [01;34msnap[0m                            Untitled2.ipynb   Untitled5.ipynb   [01;34mVídeos[0m
+ 22_proceso.py   [01;34mDescargas[0m    [01;34mImágenes[0m       [01;34mMúsica[0m                [01;34mPlantillas[0m   [01;34mprpa[0m          [01;34mPúblico[0m    [01;31mspark-3.2.1-bin-hadoop3.2.tgz[0m   Untitled3.ipynb   Untitled.ipynb
+ 2_proceso.py    [01;34mDocumentos[0m  [01;34m'INF CECILIA'[0m   os                    [01;34mprde[0m         [01;34mPRPA[0m          [40;31;01mpyspark[0m    Untitled1.ipynb                 Untitled4.ipynb   [01;34mvenv[0m
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ cd PRPR[KA
+[?2004l[?2004h]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ CP[K[Kcp ../22_proceso.py .
+[?2004l[?2004h]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ ls
+[?2004l1_proceso.py  22_proceso.py  2_proceso.py  proceso0.py  README.md
+[?2004h]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ git add 2_procfe[K]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ git add 2_procfe[K[Keso.py[K[K[K[K[K[K[K[K[K[K[K*
+[?2004l[?2004h]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ git commit
+[?2004layuda: Esperando que tu editor cierre el archivo ... [?2004h[?1049h[22;0;0t[1;49r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[47;89H(B[0;7m[ Leyendo... ](B[m[47;86H(B[0;7m[ 12 líneas leídas ](B[m[H(B[0;7m  GNU nano 6.2                                                                 /home/alumno/PRPA/.git/COMMIT_EDITMSG                                                                          [1;189H(B[m[48d(B[0;7m^G(B[m Ayuda[48;18H(B[0;7m^O(B[m Guardar[35G(B[0;7m^W(B[m Buscar[48;52H(B[0;7m^K(B[m Cortar[48;69H(B[0;7m^T(B[m Ejecutar[86G(B[0;7m^C(B[m Ubicación     (B[0;7mM-U(B[m Deshacer     (B[0;7mM-A(B[m Poner marca  (B[0;7mM-](B[m A llave[154G(B[0;7mM-Q(B[m Anterior     (B[0;7m^B(B[m Atrás[49d(B[0;7m^X(B[m Salir[49;18H(B[0;7m^R(B[m Leer fich.    (B[0;7m^\(B[m Reemplazar    (B[0;7m^U(B[m Pegar[49;69H(B[0;7m^J(B[m Justificar    (B[0;7m^/(B[m Ir a línea    (B[0;7mM-E(B[m Rehacer[120G(B[0;7mM-6(B[m Copiar[137G(B[0;7m^Q(B[m Buscar atrás  (B[0;7mM-W(B[m Siguiente    (B[0;7m^F(B[m Adelante[3d[36m# Por favor ingresa el mensaje del commit para tus cambios. Las[4d#  líneas que comiencen con '#' serán ignoradas, y un mensaje[5d#  vacío aborta el commit.[6d#[7d# En la rama main[8d# Tu rama está actualizada con 'origin/main'.[9d#[10d# Cambios a ser confirmados:[11d#[38;5;208m       [36mnuevos archivos: 22_proceso.py[12d#[38;5;208m       [36mnuevos archivos: 2_proceso.py[13d#[2d[39m(B[m[?12l[?25h[?25l[1;118H(B[0;7m*[189G(B[m7[2;46r8[2dM[1;49r[3;1H[?12l[?25h[?25l[2;46r[46;1H
+[1;49r[2;1H[?12l[?25h[?25l[?12l[?25h^X[?25l7[3;46r8[3dM[1;49r[3;1H[?12l[?25h[?25l[3;46r[46;1H
+[1;49r[2;3H[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h'[?25l[?12l[?25h[K[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l7[2;46r8M[1;49r[3;1H[?12l[?25h[?25l[2;46r[2;1HM[1;49r[4;1H[?12l[?25h[?25l[2;47r[2;1HM[1;49r[5;1H[?12l[?25h[?25l[2;47r[47;1H
+[1;49r[4;1H[?12l[?25h[?25l[2;47r[47;1H
+[1;49r[3;1H[?12l[?25h[?25l[2;47r[47;1H
+[1;49r[2;1H[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h?[?25l[?12l[?25h[K[?25l[?12l[?25h'[?25l[?12l[?25h[K[?25l[?12l[?25h^X[?25l7[3;47r8[3dM[1;49r[3;1H[?12l[?25h[?25l[3;47r[47;1H
+[1;49r[2;3H[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[?12l[?25h?[?25l[?12l[?25h[K[?25l[?12l[?25h'[?25l[?12l[?25h`r[?25l[?12l[?25hu[?25l[?12l[?25he[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25hp[?25l[?12l[?25hr[?25l[?12l[?25hu[?25l[?12l[?25he[?25l[?12l[?25hb[?25l[?12l[?25ha[?25l[?12l[?25h'[?25l7[3;47r8[3dM[1;49r[3;1H[?12l[?25h[?25l[3;47r[47;1H
+[1;49r[2;9H[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25hô[?25l[?12l[?25h[K[?25l[?12l[?25h[?25l[?12l[?25h^[?25l[?12l[?25hO[?25l7[3;47r8[3dM[1;49r[3;1H[?12l[?25h[?25l[3;47r[47;1H
+[1;49r[2;3H[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[2;47r[47;1H
+[1;49r[2;1H[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h¡# Por favor ingresa el mensaje del commit para tus cambios. Las[C[?25l[?12l[?25h¡¡# Por favor ingresa el mensaje del commit para tus cambios. Las[3G[?25l[?12l[?25h'# Por favor ingresa el mensaje del commit para tus cambios. Las[4G[?25l[?12l[?25h0# Por favor ingresa el mensaje del commit para tus cambios. Las[5G[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[C[?25l[?12l[?25h[36m# Por favor ingresa el mensaje del commit para tus cambios. Las[39m(B[m[K[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h Por favor ingresa el mensaje del commit para tus cambios. Las[K[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h. Las[K[?25l[?12l[?25h Las[K[?25l[?12l[?25hLas[K[?25l[?12l[?25has[K[?25l[?12l[?25hs[K[?25l[?12l[?25h[K[?25l[2;47r[47;1H
+[1;49r[2;1H[?12l[?25h[?25l[?12l[?25h  líneas que comiencen con '#' serán ignoradas, y un mensaje[K[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[36m#' serán ignoradas, y un mensaje[39m(B[m[K[?25l[?12l[?25h' serán ignoradas, y un mensaje[K[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25hnsaje[K[?25l[1;185H(B[0;7mM   (B[m[?12l[?25h[2d(B[0;7mn(B[m[?25l[?12l[?25h(B[0;7ms(B[m[?25l[?12l[?25h(B[0;7ma(B[m[?25l[?12l[?25h(B[0;7mj(B[m[?25l[?12l[?25h(B[0;7me(B[m[?25l[?12l[?25h[3d[?25l[?12l[?25h(B[0;7m#(B[m[?25l[?12l[?25h(B[0;7m (B[m[?25l[?12l[?25h(B[0;7m (B[m[?25l[?12l[?25h(B[0;7mv(B[m[?25l[?12l[?25h(B[0;7ma(B[m[?25l[?12l[?25h(B[0;7mc(B[m[?25l[?12l[?25h(B[0;7mí(B[m[?25l[?12l[?25h(B[0;7mo(B[m[?25l[?12l[?25h(B[0;7m (B[m[?25l[?12l[?25h(B[0;7ma(B[m[?25l[?12l[?25h(B[0;7mb(B[m[?25l[?12l[?25h(B[0;7mo(B[m[?25l[?12l[?25h(B[0;7mr(B[m[?25l[?12l[?25h(B[0;7mt(B[m[?25l[?12l[?25h(B[0;7ma(B[m[?25l[?12l[?25h(B[0;7m (B[m[?25l[?12l[?25h(B[0;7me(B[m[?25l[?12l[?25h(B[0;7ml(B[m[?25l[?12l[?25h(B[0;7m (B[m[?25l[?12l[?25h(B[0;7mc(B[m[?25l[?12l[?25h(B[0;7mo(B[m[?25l[?12l[?25h(B[0;7mm(B[m[?25l[?12l[?25h(B[0;7mm(B[m[?25l[?12l[?25h(B[0;7mi(B[m[?25l[?12l[?25h(B[0;7mt(B[m[?25l[?12l[?25h(B[0;7m.(B[m[?25l[?12l[?25h[4d[?25l[?12l[?25h(B[0;7m#(B[m[?25l[?12l[?25h[5d[?25l[?12l[?25h(B[0;7m#(B[m[?25l[?12l[?25h(B[0;7m (B[m[?25l[?12l[?25h(B[0;7mE(B[m[?25l[?12l[?25h(B[0;7mn(B[m[?25l[?12l[?25h(B[0;7m (B[m[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[36m main[39m(B[m[K[6G[?25l[?12l[?25h[36mmain[39m(B[m[K[?25l[?12l[?25h[36main[39m(B[m[K[?25l[?12l[?25h[36min[39m(B[m[K[?25l[?12l[?25h[36mn[39m(B[m[K[?25l[?12l[?25h [?25l[5;47r[47;1H
+[1;49r[5;1H(B[0;7m# En (B[0m[36m# Tu rama está actualizada con 'origin/main'.[6G[39m(B[m[?12l[?25h[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[36main'.[39m(B[m[K[6G[?25l[?12l[?25h[36min'.[39m(B[m[K[?25l[?12l[?25h[36mn'.[39m(B[m[K[?25l[?12l[?25h[36m'.[39m(B[m[K[?25l[?12l[?25h[36m.[39m(B[m[K[?25l[?12l[?25h [?25l[6;47r[47;1H
+[1;49r[5;6H[36m#[39m(B[m[?12l[?25h[?25l[?12l[?25h [?25l[6;47r[47;1H
+[1;49r[5;6H[36m# Cambios a ser confirmados:[6G[39m(B[m[?12l[?25h[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[36mados:[39m(B[m[K[6G[?25l[?12l[?25h[36mdos:[39m(B[m[K[?25l[?12l[?25h[36mos:[39m(B[m[K[?25l[?12l[?25h[36ms:[39m(B[m[K[?25l[?12l[?25h[36m:[39m(B[m[K[?25l[?12l[?25h [?25l[5;47r[47;1H
+[1;49r[5;1H(B[0;7m# En (B[0m[36m#[39m(B[m[?12l[?25h[?25l[?12l[?25h[38;5;208m [39m(B[m[?25l[?12l[?25h[3P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[36mso.py[39m(B[m[K[6G[?25l[?12l[?25h[36mo.py[39m(B[m[K[?25l[?12l[?25h[36m.py[39m(B[m[K[?25l[?12l[?25h[36mpy[39m(B[m[K[?25l[?12l[?25h[36my[39m(B[m[K[?25l[?12l[?25h [?25l[36m#[38;5;208m  [36mnuevos archivos: 2_proceso.py[6d#[39m(B[m[K[7d[K[5;6H[?12l[?25h[?25l[?12l[?25h[38;5;208m [39m(B[m[?25l[?12l[?25h[3P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[36mso.py[39m(B[m[K[6G[?25l[?12l[?25h[36mo.py[39m(B[m[K[?25l[?12l[?25h[36m.py[39m(B[m[K[?25l[?12l[?25h[36mpy[39m(B[m[K[?25l[?12l[?25h[36my[39m(B[m[K[?25l[?12l[?25h [?25l[36m#[6d[39m(B[m[K[5;6H[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[1;185H(B[0;7m    (B[m[2dnsaje[3d[36m#  vacío aborta el commit.[4d#[5d# En[39m(B[m[K[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[A[C[?12l[?25h[?25l[?12l[?25h[K[?25l[3;27H[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[2;6H[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h^B[?25l[3d[?12l[?25h[?25l[A^B[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h^B[?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[?12l[?25h[?25l[?12l[?25h[?25l[48;2H(B[0;7mL(B[m Actualizar[18X[48;32H(B[0;7m^W(B[m Buscar   [48;52H           (B[0;7mM-Q(B[m Anterior     [86G        (B[0;7m^P(B[m Línea ant.[18X[48;125H(B[0;7m^Y(B[m Pág. ant.           [154G  (B[0;7mM-\(B[m Pri. línea[K[49;4HCerrar[49;18H[14X[49;32H(B[0;7m^Q(B[m Buscar atrás[16X[49;63H(B[0;7mM-W(B[m Siguiente[18X[49;94H(B[0;7m^N(B[m Línea sig.       [120G     (B[0;7m^V(B[m Pág. sig.[19X[49;156H(B[0;7mM-/(B[m Últ. línea[K[1;3H(B[0;7m            [1;80HTexto de ayuda principal de nano       [189G(B[m[3d El editor nano está diseñado para emular la funcionalidad y sencillez de[4d uso del editor de texto UW Pico. El editor cuenta con cuatro secciones[5d principales. La línea superior muestra la versión del programa, el nombre[6d del fichero que se está editando, y si ha sido modificado o no. La[7d ventana principal del editor muestra lo que está siendo editado. La línea[8d de estado es la tercera empezando por abajo y muestra mensajes[9d importantes.  Las dos últimas líneas muestran las combinaciones de teclas[10d usadas más a menudo en el editor.[12d Las combinaciones de teclas se escriben como sigue: las secuencias con la[13d tecla Control se indican con (B[0;1m[31m'^'[39m(B[m y se pueden introducir tanto pulsando la[14d tecla Ctrl como pulsando dos veces Esc.  Las secuencias con la tecla Meta[15d se indican con (B[0;1m[31m'M-'[39m(B[m y se pueden introducir con las teclas Alt, Cmd o Esc,[16d dependiendo de su configuración de teclado.  Además, si pulsa dos veces[17d Esc y escribe después un código decimal de tres dígitos entre 000 y 255,[18d introducirá el carácter de valor correspondiente. Dispone de las[19d siguientes pulsaciones en la ventana principal del editor. Las[20d pulsaciones alternativas se muestran entre paréntesis:[22d[36m^G[39m(B[m     ([36mF1[39m)[18G(B[mMostrar esta ayuda[23d[36m^X[39m(B[m     ([36mF2[39m)[18G(B[mCerrar el búfer actual / Salir de nano[24d[36m^O[39m(B[m     ([36mF3[39m)[18G(B[mEscribir el búfer actual ((B[mo la región marcada) (B[ma disco[25d[36m^R[39m(B[m     ([36mIns[39m) (B[m    Insertar otro fichero en el búfer actual ((B[mo en un nuevo búfer)[27d[36m^W[39m(B[m     ([36mF6[39m)[18G(B[mBuscar hacia delante una cadena o expresión regular[28d[36m^\[39m(B[m     ([36mM-R[39m) (B[m    Reemplazar una cadena o expresión regular[29d[36m^K[39m(B[m     ([36mF9[39m)[18G(B[mCortar la línea actual ((B[mo la región marcada) (B[my guardarla en el cutbuffer[30d[36m^U[39m(B[m     ([36mF10[39m) (B[m    Pegar el contenido del cutbuffer en la posición del cursor[32d[36m^T[32;18H[39m(B[mEjecutar una función o una orden externa[33d[36m^J[39m(B[m     ([36mF4[39m)[18G(B[mJustificar el párrafo actual[35d[36m^C[39m(B[m     ([36mF11[39m) (B[m    Mostrar la posición del cursor[36d[36m^/[39m(B[m     ([36mM-G[39m) (B[m    Ir a una línea y columna[38d[36mM-U[38;18H[39m(B[mDeshacer la última operación[39d[36mM-E[39;18H[39m(B[mRehacer la última operación deshecha[41d[36mM-A[39m(B[m    ([36m^6[39m)[18G(B[mMarcar texto desde la posición actual del cursor[42d[36mM-6[39m(B[m    ([36mM-^[39m) (B[m    Copiar la línea actual ((B[mo la región marcada) (B[my guardarla en el cutbuffer[44d[36mM-][44;18H[39m(B[mIr a la llave correspondiente[46d[36m^Q[46;18H[39m(B[mBuscar hacia atrás una cadena o expresión regular[2d[48;2H(B[0;7mG(B[m Ayuda         (B[0;7m^O(B[m Guardar       (B[0;7m^W(B[m Buscar[48;52H(B[0;7m^K(B[m Cortar        (B[0;7m^T(B[m Ejecutar[86G(B[0;7m^C(B[m Ubicación     (B[0;7mM-U(B[m Deshacer     (B[0;7mM-A(B[m Poner marca  (B[0;7mM-](B[m A llave[154G(B[0;7mM-Q(B[m Anterior     (B[0;7m^B(B[m Atrás[49;4HSalir [49;18H(B[0;7m^R(B[m Leer fich.    (B[0;7m^\(B[m Reemplazar    (B[0;7m^U(B[m Pegar         (B[0;7m^J(B[m Justificar    (B[0;7m^/(B[m Ir a línea    (B[0;7mM-E(B[m Rehacer[120G(B[0;7mM-6(B[m Copiar       (B[0;7m^Q(B[m Buscar atrás  (B[0;7mM-W(B[m Siguiente    (B[0;7m^F(B[m Adelante[1;3H(B[0;7mGNU nano 6.2[1;80H/home/alumno/PRPA/.git/COMMIT_EDITMSG *[189G(B[m[3d[K[4d[K[5d[K[6d[K[7d[K[8d[K[9d[K[10d[K[12d[K[13d[K[14d[K[15d[K[16d[K[17d[K[18d[K[19d[K[20d[K[22d[K[23d[K[24d[K[25d[K[27d[K[28d[K[29d[K[30d[K[32d[K[33d[K[35d[K[36d[K[38d[K[39d[K[41d[K[42d[K[44d[K[46d[K[2d[?12l[?25h[?25l[47d(B[0;7m¿Guardar el búfer modificado?                                                                                                                                                                 [48;1H S(B[m Sí[K[49d(B[0;7m N(B[m No   [49;17H(B[0;7m^C(B[m Cancelar[K[47;31H[?12l[?25h[?25l[J[49d[?12l[?25h[49;1H[?1049l[23;0;0t[?1l>[?2004l[KAbortando commit debido que el mensaje está en blanco.
+[?2004h]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ [K]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ [K]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ git commit -m ?[K'prueba'[K"[K"[K[K[K[K[K[K[K[K"prueba"
+[?2004l[main 2579b34] prueba
+ 2 files changed, 44 insertions(+)
+ create mode 100644 22_proceso.py
+ create mode 100644 2_proceso.py
+[?2004h]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ gi9t[K[Kt push
+[?2004lEnumerando objetos: 4, listo.
+Contando objetos:  25% (1/4)Contando objetos:  50% (2/4)Contando objetos:  75% (3/4)Contando objetos: 100% (4/4)Contando objetos: 100% (4/4), listo.
+Compresión delta usando hasta 6 hilos
+Comprimiendo objetos:  33% (1/3)Comprimiendo objetos:  66% (2/3)Comprimiendo objetos: 100% (3/3)Comprimiendo objetos: 100% (3/3), listo.
+Escribiendo objetos:  33% (1/3)Escribiendo objetos:  66% (2/3)Escribiendo objetos: 100% (3/3)Escribiendo objetos: 100% (3/3), 592 bytes | 592.00 KiB/s, listo.
+Total 3 (delta 0), reusados 0 (delta 0), pack-reusados 0
+To github.com:CelesteRhodesRodriguez/PRPA.git
+   dfa9b10..2579b34  main -> main
+[?2004h]0;alumno@aula435: ~/PRPA[01;32malumno@aula435[00m:[01;34m~/PRPA[00m$ cd ..
+[?2004l[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ rm ssh*
+[?2004lrm: no se puede borrar 'ssh*': No existe el archivo o el directorio
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ rm ssh.zip*
+[?2004lrm: no se puede borrar 'ssh.zip*': No existe el archivo o el directorio
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ rm PRPA*[K
+[?2004lrm: no se puede borrar 'PRPA': Es un directorio
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ ^C[?2004l[?2004h[?2004l
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ rm -r [K[K[K[K[K[Kls
+[?2004l 1_proceso.py    [0m[01;34mAinhoa[0m       [01;34mEscritorio[0m     multiprocessing.txt   patata.hs    proceso0.py   prpa.git   [01;34msnap[0m                            Untitled2.ipynb   Untitled5.ipynb   [01;34mVídeos[0m
+ 22_proceso.py   [01;34mDescargas[0m    [01;34mImágenes[0m       [01;34mMúsica[0m                [01;34mPlantillas[0m   [01;34mprpa[0m          [01;34mPúblico[0m    [01;31mspark-3.2.1-bin-hadoop3.2.tgz[0m   Untitled3.ipynb   Untitled.ipynb
+ 2_proceso.py    [01;34mDocumentos[0m  [01;34m'INF CECILIA'[0m   os                    [01;34mprde[0m         [01;34mPRPA[0m          [40;31;01mpyspark[0m    Untitled1.ipynb                 Untitled4.ipynb   [01;34mvenv[0m
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ lsrm PRPA-rf[K
+[?2004lrm: no se puede borrar 'PRPA-r': No existe el archivo o el directorio
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ rm PRPA-r[C[C[C[C[K[K[C PRPA- PRPAr PRPAf PRPA[C PRPA
+[?2004l[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ ls
+[?2004l 1_proceso.py    [0m[01;34mAinhoa[0m       [01;34mEscritorio[0m     multiprocessing.txt   patata.hs    proceso0.py   [01;34mPúblico[0m   [01;31mspark-3.2.1-bin-hadoop3.2.tgz[0m   Untitled3.ipynb   Untitled.ipynb
+ 22_proceso.py   [01;34mDescargas[0m    [01;34mImágenes[0m       [01;34mMúsica[0m                [01;34mPlantillas[0m   [01;34mprpa[0m          [40;31;01mpyspark[0m   Untitled1.ipynb                 Untitled4.ipynb   [01;34mvenv[0m
+ 2_proceso.py    [01;34mDocumentos[0m  [01;34m'INF CECILIA'[0m   os                    [01;34mprde[0m         prpa.git      [01;34msnap[0m      Untitled2.ipynb                 Untitled5.ipynb   [01;34mVídeos[0m
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ rm prpa.py
+[?2004lrm: no se puede borrar 'prpa.py': No existe el archivo o el directorio
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ rm prpa.py[K[Kgit
+[?2004l[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ ls
+[?2004l 1_proceso.py    [0m[01;34mAinhoa[0m       [01;34mEscritorio[0m     multiprocessing.txt   patata.hs    proceso0.py   [40;31;01mpyspark[0m                         Untitled1.ipynb   Untitled4.ipynb   [01;34mvenv[0m
+ 22_proceso.py   [01;34mDescargas[0m    [01;34mImágenes[0m       [01;34mMúsica[0m                [01;34mPlantillas[0m   [01;34mprpa[0m          [01;34msnap[0m                            Untitled2.ipynb   Untitled5.ipynb   [01;34mVídeos[0m
+ 2_proceso.py    [01;34mDocumentos[0m  [01;34m'INF CECILIA'[0m   os                    [01;34mprde[0m         [01;34mPúblico[0m       [01;31mspark-3.2.1-bin-hadoop3.2.tgz[0m   Untitled3.ipynb   Untitled.ipynb
+[?2004h]0;alumno@aula435: ~[01;32malumno@aula435[00m:[01;34m~[00m$ [?2004l
+exit
+
+Script done on 2023-02-02 13:34:16+01:00 [COMMAND_EXIT_CODE="0"]
